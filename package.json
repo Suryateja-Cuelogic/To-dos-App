@@ -1,0 +1,25 @@
+{
+  "name": "To-dos-App",
+  "version": "1.0.0",
+  "description": "A To-dos App Where authenticated users create a new To-do, Update To-do and delete a to-do",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Suryateja-Cuelogic/To-dos-App.git"
+  },
+  "keywords": [
+    "to-do"
+  ],
+  "author": "Suryateja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Suryateja-Cuelogic/To-dos-App/issues"
+  },
+  "homepage": "https://github.com/Suryateja-Cuelogic/To-dos-App",
+  "dependencies": {
+    "hapi": "^8.8.1"
+  }
+}
