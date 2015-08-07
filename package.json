@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/Suryateja-Cuelogic/To-dos-App",
   "dependencies": {
-    "hapi": "^8.8.1"
+    "hapi": "^8.8.1",
+    "mongoose": "^4.1.1"
   }
 }
